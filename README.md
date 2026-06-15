@@ -1,3 +1,6 @@
+# JUNE 2026 - I'm archiving this project because Dreamhost no longer allows access to Announcement lists and Discussions lists
+
+
 # Newsletter Sender for DreamHost Lists
 
 **Send newsletters and new blog posts to your DreamHost Announcement Lists using the official API. Manage campaigns directly from WordPress.**
